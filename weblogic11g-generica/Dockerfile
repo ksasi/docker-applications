@@ -1,1 +1,0 @@
-# LICENSE CDDL 1.0 + GPL 2.0
