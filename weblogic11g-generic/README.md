@@ -1,6 +1,6 @@
 WebLogic on Docker
 ===============
-Docker configurations to facilitate installation, configuration, and environment setup for developers. This project includes [dockerfiles](weblogic11g-generic/) for both WebLogic 11g 10.3.6 with JDK 7 on OracleLinux 6.5.
+Docker configurations to facilitate installation, configuration, and environment setup for developers. This project includes [dockerfiles](./) for both WebLogic 11g 10.3.6 with JDK 7 on OracleLinux 6.5.
 
 ## Based on Official Oracle Linux Docker images
 For more information please read the [Docker Images from Oracle Linux](https://registry.hub.docker.com/_/oraclelinux/) page.
